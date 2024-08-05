@@ -1,0 +1,40 @@
+.button
+{
+    -fx-background-color: #d3d1af;
+    -fx-background-radius: 0 30 30 0;
+}
+.button:hover
+{
+    -fx-background-color: #fffdd0;
+    -fx-background-radius: 0 30 30 0;
+}
+.text-field
+{
+    -fx-background-color: #d3d1af;
+    -fx-prompt-text-fill: black;
+    -fx-opacity: 0.8;
+}
+.text-field:hover
+{
+    -fx-background-color: #fffdd0;
+}
+.text-field:pressed
+{
+    -fx-background-color: #fffdd0;
+}
+.check-box
+{
+    -fx-opacity: 0.8;
+}
+.check-box:hover
+{
+    -fx-background-color: #fffdd0;
+}
+.combo-box
+{
+    -fx-opacity: 0.8;
+}
+.combo-box:hover
+{
+    -fx-background-color: #fffdd0;
+}
