@@ -44,4 +44,3 @@ Feel free to browse the leaderboard from the main menu once you finish your firs
 ## Credits
 
 - Original Maker- Sigurður Sigurðardóttir
-- Fade Transition- https://genuinecoder.com/javafx-splash-screen-loading-screen/
